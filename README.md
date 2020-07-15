@@ -55,10 +55,18 @@ The crux of this project is a machine learning implementation that seeks to pred
 <!-- SUMMARY -->
 ## Summary
 
+Through this project, I was able to build a machine learning model and explore the data to find some key traits that would make an offer more likely to succeed.
 
 
 <!-- FINDINGS -->
 ## Key Insights
+
+- Females spend more money on average than males at Starbucks.
+- Users who do not completely fill out their membership profile typically spend less, suggesting that they also would not benefit from “craft drink” related offers (i.e. try our new venti magic unicorn frappuccino with extra sprinkles and pixie dust and get 20 extra stars!).
+- Offers where a discount is provided are more likely to be completed than buy-one-get-one offers.
+- To get maximum completion, include social media in your distribution plan. The most successful and second-to-least successful offers were almost identical in all ways except that the most successful one was spread via social media and the other wasn’t.
+- With machine learning, I validated that social media was an influential factor in whether an offer would be completed.
+- Other important factors included offer duration, user age, and how much the reward was for. Unimportant factors included email, how long the user had been a member, and their gender.
 
 
 
