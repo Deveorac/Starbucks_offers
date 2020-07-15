@@ -1,4 +1,5 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
