@@ -67,7 +67,7 @@ The crux of this project is a machine learning implementation that seeks to pred
 
 Mehrnaz Siavoshi - [@i_mehrnaz](https://twitter.com/i_mehrnaz)
 
-Project Link: [https://github.com/Deveorac/AB_testing_python](https://github.com/Deveorac/AB_testing_python)
+Project Link: [https://github.com/Deveorac/Starbucks_offers](https://github.com/Deveorac/Starbucks_offers)
 
 
 
