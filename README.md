@@ -1,5 +1,5 @@
 
-[LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -90,5 +90,5 @@ Project Link: [https://github.com/Deveorac/Starbucks_offers](https://github.com/
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: hhttps://www.linkedin.com/in/mehrnazsiavoshi/
+[linkedin-url]: https://www.linkedin.com/in/mehrnazsiavoshi/
 [product-screenshot]: images/screenshot.png
