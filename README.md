@@ -52,10 +52,29 @@ Data was provided by a Starbucks simulation through Udacity. Data was aggregated
 
 The crux of this project is a machine learning implementation that seeks to predict the factors that are most impactful in determining whether an offer will be successful. 
 
+<!-- METRICS -->
+## Metrics
+
+During preprocessing, a variety of changes were made to each of the DataFrames. New columns were created containing dummy variables for most of the categorical data, including offer type and gender. 
+
+There were no duplicates in the dataset, but incorrectly coded ages were found and replaced. 
+
+The dimensions of each dataframe increased in the number of columns but stayed consistent in the number of rows. 
+
 <!-- SUMMARY -->
 ## Summary
 
 Through this project, I was able to build a machine learning model and explore the data to find some key traits that would make an offer more likely to succeed.
+
+Three machine learning models were used: Decision Tree Classifier, Logistic Regression, and Random Forest Classifier. Each was implemented on a 25% test split with default parameters. No changes were made as each model had a relatively strong predictive score, with the Random Forest Classifier having the best predictive power.
+
+The initial goal was to use a Grid Search to optimize the machine learning algorithm. However, on first pass the Random Forest Classifier model provided very high predictive scores, so further optimization would have diminishing returns at this point, especially without more specific demographic data.
+
+Each model made the following predictions for which factors are most impactful on whether an offer will be completed:
+
+<img src="https://miro.medium.com/max/700/1*Y3Mai2jn2bQ6xJIJz_ra1Q.png">
+
+As expected during the exploratory visual and programmatic analysis, the amount of the award has the greatest impact on whether it will be fulfilled. Income, membership start year, and user gender have little or no impact on whether an offer will be fulfilled. Additionally, as expected, marketing an offer on social media had a significant impact on whether it would be completed. The most successful offers were ran on all platforms and the least successful ones were not ran on social media.
 
 
 <!-- FINDINGS -->
