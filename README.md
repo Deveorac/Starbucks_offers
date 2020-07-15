@@ -35,8 +35,7 @@
 
 The goal with this data is to identify trends in purchases and offer completion. Ideally, with this project, I will be able to predict whether a user will come into the store to purchase something because they received an offer.  
 
-This project will be published on Medium, but for now the article PDF is available in the repo. 
-
+Read about this project in [Towards Data Science](https://towardsdatascience.com/to-offer-or-not-to-offer-a-starbucks-machine-learning-project-c21bf9c398bc). 
 ### Built With
 
 * Jupyter Notebooks
